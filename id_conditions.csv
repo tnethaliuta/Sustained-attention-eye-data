@@ -1,0 +1,355 @@
+subject,experiment,condition,"goal (0 = none, 1 = easy, 2 = hard) ","feedback (0 = none, 1 = yes)","reward (0 = no, 1 = time, 2 = cash)"
+845,1,Hard goal,2,0,0
+846,1,Easy goal,1,0,0
+847,1,No goal,0,0,0
+848,1,Hard goal,2,0,0
+849,1,Easy goal,1,0,0
+850,1,No goal,0,0,0
+851,1,Hard goal,2,0,0
+852,1,Easy goal,1,0,0
+853,1,No goal,0,0,0
+854,1,Hard goal,2,0,0
+855,1,Easy goal,1,0,0
+856,1,No goal,0,0,0
+857,1,Hard goal,2,0,0
+858,1,Easy goal,1,0,0
+859,1,No goal,0,0,0
+860,1,No goal,0,0,0
+861,1,Easy goal,1,0,0
+862,1,No goal,0,0,0
+863,1,Hard goal,2,0,0
+864,1,Easy goal,1,0,0
+865,1,No goal,0,0,0
+866,1,Hard goal,2,0,0
+867,1,Easy goal,1,0,0
+868,1,No goal,0,0,0
+869,1,Hard goal,2,0,0
+870,1,Easy goal,1,0,0
+871,1,No goal,0,0,0
+872,1,Hard goal,2,0,0
+874,1,No goal,0,0,0
+875,1,Hard goal,2,0,0
+876,1,Easy goal,1,0,0
+877,1,No goal,0,0,0
+878,1,Hard goal,2,0,0
+879,1,Easy goal,1,0,0
+880,1,No goal,0,0,0
+881,1,Hard goal,2,0,0
+882,1,Easy goal,1,0,0
+883,1,No goal,0,0,0
+884,1,Hard goal,2,0,0
+885,1,Easy goal,1,0,0
+886,1,Hard goal,2,0,0
+887,1,No goal,0,0,0
+888,1,Hard goal,2,0,0
+889,1,Easy goal,1,0,0
+890,1,No goal,0,0,0
+891,1,Hard goal,2,0,0
+892,1,Easy goal,1,0,0
+893,1,No goal,0,0,0
+894,1,Hard goal,2,0,0
+895,1,Easy goal,1,0,0
+896,1,No goal,0,0,0
+897,1,Hard goal,2,0,0
+898,1,Easy goal,1,0,0
+899,1,No goal,0,0,0
+900,1,Hard goal,2,0,0
+901,1,Easy goal,1,0,0
+902,1,No goal,0,0,0
+903,1,Hard goal,2,0,0
+904,1,Easy goal,1,0,0
+905,1,No goal,0,0,0
+906,1,Hard goal,2,0,0
+907,1,Easy goal,1,0,0
+908,1,No goal,0,0,0
+909,1,Hard goal,2,0,0
+910,1,Easy goal,1,0,0
+911,1,No goal,0,0,0
+912,1,Hard goal,2,0,0
+913,1,Easy goal,1,0,0
+914,1,No goal,0,0,0
+915,1,Hard goal,2,0,0
+916,1,Easy goal,1,0,0
+917,1,No goal,0,0,0
+918,1,Hard goal,2,0,0
+919,1,Easy goal,1,0,0
+920,1,No goal,0,0,0
+921,1,Hard goal,2,0,0
+922,1,Easy goal,1,0,0
+923,1,No goal,0,0,0
+924,1,Hard goal,2,0,0
+925,1,Easy goal,1,0,0
+926,1,No goal,0,0,0
+927,1,Hard goal,2,0,0
+928,1,Easy goal,1,0,0
+929,1,No goal,0,0,0
+930,1,Hard goal,2,0,0
+931,1,Easy goal,1,0,0
+932,1,No goal,0,0,0
+933,1,Hard goal,2,0,0
+934,1,Hard goal,2,0,0
+935,1,No goal,0,0,0
+936,1,Easy goal,1,0,0
+937,1,Easy goal,1,0,0
+938,1,No goal,0,0,0
+939,1,Hard goal,2,0,0
+940,1,Easy goal,1,0,0
+941,1,No goal,0,0,0
+942,1,Hard goal,2,0,0
+943,1,Easy goal,1,0,0
+944,1,No goal,0,0,0
+945,1,Hard goal,2,0,0
+946,1,Easy goal,1,0,0
+947,1,No goal,0,0,0
+948,1,Hard goal,2,0,0
+949,1,Easy goal,1,0,0
+951,2,goal + no feedback,2,0,0
+953,2,no goal + no feedback,0,0,0
+955,2,no goal + no feedback,0,0,0
+957,2,goal + no feedback,2,0,0
+959,2,no goal + no feedback,0,0,0
+961,2,goal + no feedback,2,0,0
+963,2,no goal + no feedback,0,0,0
+965,2,goal + no feedback,2,0,0
+969,2,goal + no feedback,2,0,0
+971,2,no goal + no feedback,0,0,0
+973,2,goal + no feedback,2,0,0
+975,2,no goal + no feedback,0,0,0
+977,2,goal + no feedback,2,0,0
+979,2,no goal + no feedback,0,0,0
+981,2,goal + no feedback,2,0,0
+983,2,no goal + no feedback,0,0,0
+985,2,goal + no feedback,2,0,0
+987,2,no goal + no feedback,0,0,0
+989,2,goal + no feedback,2,0,0
+991,2,no goal + no feedback,0,0,0
+993,2,goal + no feedback,2,0,0
+995,2,no goal + no feedback,0,0,0
+997,2,goal + no feedback,2,0,0
+999,2,no goal + no feedback,0,0,0
+1001,2,goal + no feedback,2,0,0
+1003,2,no goal + no feedback,0,0,0
+1005,2,goal + no feedback,2,0,0
+1007,2,no goal + no feedback,0,0,0
+1009,2,goal + no feedback,2,0,0
+1013,2,goal + no feedback,2,0,0
+1015,2,no goal + no feedback,0,0,0
+1017,2,goal + no feedback,2,0,0
+1019,2,no goal + no feedback,0,0,0
+1020,2,goal + feedback,2,1,0
+1021,2,goal + no feedback,2,0,0
+1022,2,no goal + feedback,0,1,0
+1023,2,no goal + no feedback,0,0,0
+1024,2,goal + feedback,2,1,0
+1025,2,goal + no feedback,2,0,0
+1027,2,no goal + no feedback,0,0,0
+1028,2,goal + feedback,2,1,0
+1029,2,goal + no feedback,2,0,0
+1030,2,no goal + feedback,0,1,0
+1031,2,no goal + no feedback,0,0,0
+1032,2,goal + feedback,2,1,0
+1033,2,goal + no feedback,2,0,0
+1034,2,no goal + feedback,0,1,0
+1036,2,goal + feedback,2,1,0
+1037,2,goal + no feedback,2,0,0
+1038,2,no goal + feedback,0,1,0
+1039,2,no goal + no feedback,0,0,0
+1040,2,goal + feedback,2,1,0
+1041,2,goal + no feedback,2,0,0
+1042,2,no goal + feedback,0,1,0
+1043,2,no goal + no feedback,0,0,0
+1045,2,goal + no feedback,2,0,0
+1046,2,no goal + feedback,0,1,0
+1047,2,no goal + no feedback,0,0,0
+1048,2,goal + feedback,2,1,0
+1049,2,goal + no feedback,2,0,0
+1050,2,no goal + feedback,0,1,0
+1051,2,no goal + no feedback,0,0,0
+1052,2,goal + feedback,2,1,0
+1053,2,goal + no feedback,2,0,0
+1054,2,no goal + feedback,0,1,0
+1055,2,no goal + no feedback,0,0,0
+1056,2,goal + feedback,2,1,0
+1057,2,goal + no feedback,2,0,0
+1058,2,no goal + feedback,0,1,0
+1059,2,no goal + no feedback,0,0,0
+1060,2,goal + feedback,2,1,0
+1061,2,goal + no feedback,2,0,0
+1062,2,goal + no feedback,2,0,0
+1063,2,no goal + no feedback,0,0,0
+1064,2,goal + feedback,2,1,0
+1065,2,goal + no feedback,2,0,0
+1066,2,no goal + feedback,0,1,0
+1067,2,no goal + no feedback,0,0,0
+1068,2,goal + feedback,2,1,0
+1069,2,goal + no feedback,2,0,0
+1070,2,no goal + feedback,0,1,0
+1071,2,no goal + no feedback,0,0,0
+1072,2,goal + feedback,2,1,0
+1073,2,no goal + feedback,0,1,0
+1074,2,no goal + feedback,0,1,0
+1075,2,no goal + no feedback,0,0,0
+1076,2,goal + feedback,2,1,0
+1077,2,no goal + feedback,0,1,0
+1078,2,goal + no feedback,2,0,0
+1079,2,no goal + no feedback,0,0,0
+1080,2,goal + feedback,2,1,0
+1081,2,goal + no feedback,2,0,0
+1082,2,no goal + feedback,0,1,0
+1083,2,no goal + no feedback,0,0,0
+1084,2,goal + feedback,2,1,0
+1085,2,goal + no feedback,2,0,0
+1086,2,no goal + feedback,0,1,0
+1087,2,no goal + no feedback,0,0,0
+1088,2,goal + feedback,2,1,0
+1089,2,goal + no feedback,2,0,0
+1090,2,no goal + feedback,0,1,0
+1091,2,no goal + no feedback,0,0,0
+1092,2,goal + feedback,2,1,0
+1093,2,goal + no feedback,2,0,0
+1094,2,no goal + feedback,0,1,0
+1095,2,goal + feedback,2,1,0
+1096,2,no goal + feedback,0,1,0
+1097,2,goal + feedback,2,1,0
+1098,2,no goal + feedback,0,1,0
+1099,2,goal + feedback,2,1,0
+1100,2,no goal + feedback,0,1,0
+1101,2,goal + feedback,2,1,0
+1102,2,no goal + feedback,0,1,0
+1103,2,goal + feedback,2,1,0
+1104,2,no goal + feedback,0,1,0
+1105,2,goal + feedback,2,1,0
+1106,2,no goal + feedback,0,1,0
+1107,2,goal + feedback,2,1,0
+1108,2,no goal + feedback,0,1,0
+1109,2,goal + feedback,2,1,0
+1110,2,no goal + feedback,0,1,0
+1111,2,goal + feedback,2,1,0
+1112,2,goal + feedback,2,1,0
+1113,2,goal + feedback,2,1,0
+1114,2,no goal + feedback,0,1,0
+1115,2,no goal + feedback,0,1,0
+1116,2,no goal + feedback,0,1,0
+1117,2,goal + feedback,2,1,0
+1118,2,no goal + feedback,0,1,0
+1119,2,goal + feedback,2,1,0
+1120,2,no goal + feedback,0,1,0
+1121,2,goal + feedback,2,1,0
+1122,2,no goal + feedback,0,1,0
+1123,2,goal + feedback,2,1,0
+1124,2,no goal + feedback,0,1,0
+1125,2,goal + feedback,2,1,0
+1126,2,no goal + feedback,0,1,0
+1127,2,goal + feedback,2,1,0
+1128,2,goal + no feedback,2,0,0
+1129,3,none,2,1,0
+1130,3,time,2,1,1
+1131,3,cash,2,1,2
+1132,3,none,2,1,0
+1133,3,time,2,1,1
+1134,3,cash,2,1,2
+1135,3,none,2,1,0
+1136,3,time,2,1,1
+1137,3,cash,2,1,2
+1138,3,time,2,1,1
+1139,3,none,2,1,0
+1140,3,cash,2,1,2
+1143,3,cash,2,1,2
+1144,3,none,2,1,0
+1146,3,cash,2,1,2
+1147,3,none,2,1,0
+1148,3,time,2,1,1
+1150,3,none,2,1,0
+1151,3,time,2,1,1
+1152,3,cash,2,1,2
+1153,3,none,2,1,0
+1154,3,time,2,1,1
+1155,3,cash,2,1,2
+1156,3,none,2,1,0
+1157,3,time,2,1,1
+1158,3,cash,2,1,2
+1159,3,none,2,1,0
+1160,3,time,2,1,1
+1161,3,cash,2,1,2
+1162,3,none,2,1,0
+1163,3,time,2,1,1
+1164,3,cash,2,1,2
+1165,3,none,2,1,0
+1166,3,time,2,1,1
+1167,3,cash,2,1,2
+1168,3,none,2,1,0
+1170,3,cash,2,1,2
+1171,3,none,2,1,0
+1172,3,time,2,1,1
+1173,3,cash,2,1,2
+1174,3,none,2,1,0
+1175,3,time,2,1,1
+1176,3,cash,2,1,2
+1177,3,none,2,1,0
+1179,3,cash,2,1,2
+1180,3,none,2,1,0
+1181,3,time,2,1,1
+1182,3,cash,2,1,2
+1183,3,none,2,1,0
+1184,3,time,2,1,1
+1185,3,cash,2,1,2
+1187,3,time,2,1,1
+1188,3,cash,2,1,2
+1189,3,none,2,1,0
+1190,3,time,2,1,1
+1191,3,cash,2,1,2
+1192,3,none,2,1,0
+1193,3,time,2,1,1
+1194,3,cash,2,1,2
+1195,3,none,2,1,0
+1196,3,time,2,1,1
+1197,3,cash,2,1,2
+1198,3,none,2,1,0
+1199,3,time,2,1,1
+1200,3,cash,2,1,2
+1201,3,none,2,1,0
+1202,3,time,2,1,1
+1203,3,cash,2,1,2
+1204,3,none,2,1,0
+1205,3,time,2,1,1
+1206,3,cash,2,1,2
+1207,3,none,2,1,0
+1208,3,time,2,1,1
+1209,3,cash,2,1,2
+1210,3,none,2,1,0
+1211,3,time,2,1,1
+1212,3,cash,2,1,2
+1213,3,none,2,1,0
+1214,3,time,2,1,1
+1215,3,cash,2,1,2
+1216,3,none,2,1,0
+1217,3,time,2,1,1
+1218,3,cash,2,1,2
+1219,3,none,2,1,0
+1220,3,time,2,1,1
+1221,3,cash,2,1,2
+1222,3,none,2,1,0
+1223,3,time,2,1,1
+1224,3,cash,2,1,2
+1225,3,none,2,1,0
+1226,3,time,2,1,1
+1227,3,cash,2,1,2
+1228,3,none,2,1,0
+1229,3,time,2,1,1
+1230,3,cash,2,1,2
+1231,3,none,2,1,0
+1232,3,time,2,1,1
+1233,3,cash,2,1,2
+1234,3,none,2,1,0
+1235,3,time,2,1,1
+1236,3,cash,2,1,2
+1237,3,time,2,1,1
+1238,3,time,2,1,1
+1239,3,time,2,1,1
+1240,3,none,2,1,0
+1241,3,cash,2,1,2
+1242,3,cash,2,1,2
+1243,3,none,2,1,0
+1244,3,time,2,1,1
+1245,3,cash,2,1,2
+1246,3,none,2,1,0
